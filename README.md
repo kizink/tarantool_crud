@@ -2,6 +2,7 @@
 Реализация CRUD API с использование tarantool
 
 # Usage
+0. mv .env.example .env
 1. docker compose up
 2. go run cmd/app/main.go
 
